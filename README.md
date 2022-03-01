@@ -1,2 +1,3 @@
 # SEGTCN
-SEGTCN code
+
+The code of the paper will be published soon 
